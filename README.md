@@ -1,7 +1,5 @@
 ### Doubly linked list
 
----
-⚠️ DO NOT SUBMIT PRS TO THIS REPO ⚠️
 
 
 
